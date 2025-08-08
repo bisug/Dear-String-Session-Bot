@@ -65,3 +65,11 @@ pip install -r requirements.txt
 
 # Run the bot
 python ssgen.py
+```
+## 🙏 Credits
+
+- **Original Project Base**: [Tech VJ](https://youtube.com/@Tech_VJ)  
+- **Modified & Enhanced**: [Bisu](https://github.com/bisug)  
+- **Inspiration & Guide**: Telegram Bot API, Pyrogram, Telethon Documentation  
+- **Database**: [MongoDB Atlas](https://www.mongodb.com/atlas)  
+- **Hosting**: [Render](https://render.com)

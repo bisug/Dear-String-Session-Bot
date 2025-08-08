@@ -1,0 +1,13 @@
+dnspython
+motor
+psutil
+pyrofork
+python-dotenv
+pyrogram 
+telethon
+TgCrypto
+Flask
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
